@@ -1,4 +1,5 @@
   
+  
 <h1>Hello! <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="30" </h1>
 <br><br>
 
@@ -46,21 +47,22 @@ Hi I am Adarsh Saurabh very happy to see you here 😄. Currently I am a first y
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Adarsh-Saurabh&show_icons=true&count_private=true&theme=tokyonight)<br>
 
-  <a href="https://github.com/Adarsh-Saurabh/github-readme-activity-graph"><img width="120%" alt="Adarsh Saurabh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Adarsh-Saurabh&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-  <a href="https://github.com/Adarsh-Saurabh/github-readme-stats"><img width="120%" alt="Adarsh Saurabh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-Saurabh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-
+  <a href="https://github.com/Adarsh-Saurabh/github-readme-activity-graph"><img width="40%" align="left" alt="Adarsh Saurabh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Adarsh-Saurabh&bg_color=0D1117&theme=tokyonight&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+  
+  <a href="https://github.com/Adarsh-Saurabh/github-readme-stats"><img align="right"  width="40%" alt="Adarsh Saurabh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-Saurabh&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
+<br>
 
 ## Skills <img src = "https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width = 64px> </h2>
 
 
- <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> 
- <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> 
- <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> 
-  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flask.svg'> 
-  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/heroku.svg'> 
-  <img width ='32px' src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img width ='32px' src="https://img.icons8.com/color/48/000000/firebase.png"/>
-<br>
+ <img align="left" width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> 
+ <img  align="left" width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> 
+ <img  align="left" width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> 
+  <img align="left"  width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flask.svg'> 
+  <img  align="left" width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/heroku.svg'> 
+  <img  align="left" width ='32px' src="https://img.icons8.com/color/48/000000/git.png"/>
+  <img  align="left" width ='32px' src="https://img.icons8.com/color/48/000000/firebase.png"/>
+<br><br>
 
 ## My Trophies <img src = "https://media.giphy.com/media/JzqRWjBTKZXSE/giphy.gif" width = 64px> </h2>
 
