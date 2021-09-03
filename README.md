@@ -46,11 +46,12 @@ Hi I am Adarsh Saurabh very happy to see you here 😄. Currently I am a first y
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Adarsh-Saurabh&show_icons=true&count_private=true&theme=tokyonight)<br>
 
-  <a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img width="78%" alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Adarsh-Saurabh&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img width = "78%" alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-Saurabh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img width="50%" alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Adarsh-Saurabh&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img width = "50%" alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-Saurabh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 
 ## Skills <img src = "https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width = 64px> </h2>
+
 
  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> 
  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> 
