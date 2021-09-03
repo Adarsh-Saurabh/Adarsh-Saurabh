@@ -16,50 +16,49 @@ Hi I am Adarsh Saurabh very happy to see you here 😄. Currently I am a first y
     [<img alt="Gmail" src="https://img.shields.io/badge/-Gmail-yellow.svg?&style=for-the-badge&logo=gmail&logoColor=red"/>](https://adarshsaurabh1396@gmail.com/)
    
 
-   <br>
-
-* 💻 I am learning **DSA, Flask** and **ML**.
-
-* 😄 Looking for open source opportunities.
-
-* 🎶 I'm really into **Music**.
-
-* 😋 Loves **Anime**.
   
-* **Pronouns** - **He**, **They**.
+
+## About me:
+
+- 💻 I am learning **DSA, Flask** and **ML**.
+
+- 😄 Looking for open source opportunities.
+
+- 🎶 I'm really into **Music**.
+
+- 😋 Loves **Anime**.
+  
+- **Pronouns** - **He**, **They**.
+
+- Currently I'm working on a **Covid Predictor** model.
 
 
-
-
-
-
-
-
+<br>
 
 
 
 
 ## Some stats  <img src = "https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width = 32px> </h2>
 
-## Profile 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
-
-![visitors](https://komarev.com/ghpvc/?username=Adarsh-Saurabh)
-<br><br>
-
+<p align="centre">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Adarsh-Saurabh&theme=nightowl&currStreakLabel=DDA523)](https://git.io/streak-stats)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Adarsh-Saurabh&show_icons=true&count_private=true&theme=tokyonight)<br>
 
+  </p>
 
-<h2> Skills <img src = "https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width = 64px> </h2>
+
+## Skills <img src = "https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width = 64px> </h2>
 
  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> 
  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> 
  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> 
   <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flask.svg'> 
   <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/heroku.svg'> 
-<br>
+  <img width ='32px' src="https://img.icons8.com/color/48/000000/git.png"/>
+  <img width ='32px' src="https://img.icons8.com/color/48/000000/firebase.png"/>
+<br><br><br>
 
 ## My Trophies <img src = "https://media.giphy.com/media/JzqRWjBTKZXSE/giphy.gif" width = 64px> </h2>
 
