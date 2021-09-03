@@ -18,15 +18,15 @@ Hi I am Adarsh Saurabh very happy to see you here 😄. Currently I am a first y
 
    <br>
 
-- 💻 I am learning **DSA, Flask** and **ML**.
+* 💻 I am learning **DSA, Flask** and **ML**.
 
-- 😄 Looking for open source opportunities.
+* 😄 Looking for open source opportunities.
 
-- 🎶 I'm really into **Music**.
+* 🎶 I'm really into **Music**.
 
-- 😋 Loves **Anime**.
+* 😋 Loves **Anime**.
   
-- **Pronouns** - **He**, **They**.
+* **Pronouns** - **He**, **They**.
 
 
 
