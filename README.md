@@ -40,13 +40,14 @@ Hi I am Adarsh Saurabh very happy to see you here 😄. Currently I am a first y
 
 ## Some stats  <img src = "https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width = 32px> </h2>
 
-<p align="centre">
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Adarsh-Saurabh&theme=nightowl&currStreakLabel=DDA523)](https://git.io/streak-stats)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Adarsh-Saurabh&show_icons=true&count_private=true&theme=tokyonight)<br>
 
-  </p>
+  <a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img width="78%" alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Adarsh-Saurabh&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img width = "78%" alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-Saurabh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 
 ## Skills <img src = "https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width = 64px> </h2>
