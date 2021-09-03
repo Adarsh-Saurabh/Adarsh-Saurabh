@@ -58,7 +58,7 @@ Hi I am Adarsh Saurabh very happy to see you here 😄. Currently I am a first y
   <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/heroku.svg'> 
   <img width ='32px' src="https://img.icons8.com/color/48/000000/git.png"/>
   <img width ='32px' src="https://img.icons8.com/color/48/000000/firebase.png"/>
-<br><br><br>
+<br>
 
 ## My Trophies <img src = "https://media.giphy.com/media/JzqRWjBTKZXSE/giphy.gif" width = 64px> </h2>
 
