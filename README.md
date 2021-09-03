@@ -45,7 +45,7 @@ Hi I am Adarsh Saurabh very happy to see you here 😄. Currently I am a first y
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Adarsh-Saurabh&theme=nightowl&currStreakLabel=DDA523)](https://git.io/streak-stats)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Adarsh-Saurabh&show_icons=true&count_private=true&theme=tokyonight)<br>
+<!-- ![github stats](https://github-readme-stats.vercel.app/api?username=Adarsh-Saurabh&show_icons=true&count_private=true&theme=tokyonight)<br> -->
 
   <a href="https://github.com/Adarsh-Saurabh/github-readme-activity-graph"><img width="53%" align="right" alt="Adarsh Saurabh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Adarsh-Saurabh&bg_color=0D1117&theme=tokyonight&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
   
