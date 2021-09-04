@@ -1,6 +1,5 @@
- < align = "right" ![visitors](https://komarev.com/ghpvc/?username=Adarsh-Saurabh)/>
-<br><br>
-⭐ From [Abhishek Gupta](https://github.com/Adarsh-Saurabh)
+ <img alt = "Visitors" align = "right" src = "https://komarev.com/ghpvc/?username=Adarsh-Saurabh"/>
+<!-- ![visitors](https://komarev.com/ghpvc/?username=Adarsh-Saurabh) -->
   
 <h1>Hello! <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="30" </h1>
 <br><br>
