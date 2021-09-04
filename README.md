@@ -1,10 +1,9 @@
- <img alt = "Visitors" align = "right" src = "https://komarev.com/ghpvc/?username=Adarsh-Saurabh"/>
-<!-- ![visitors](https://komarev.com/ghpvc/?username=Adarsh-Saurabh) -->
-  
-<h1>Hello! <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="30" </h1>
-<br><br>
+<img alt = "Visitors" align = "right" src = "https://komarev.com/ghpvc/?username=Adarsh-Saurabh"/>
 
-<h6>Hi I am Adarsh Saurabh very happy to see you here 😄. Currently I am a first year computer science Btech student. I am really into learning and growing.</h6>
+<h1>Hello! <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="30" </h1>
+<br>
+
+<h5>Hi I am Adarsh Saurabh very happy to see you here 😄. Currently I am a first year computer science Btech student. I am really into learning and growing.</h5>
  
 
 
