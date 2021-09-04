@@ -3,20 +3,20 @@
 <h1>Hello! <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="30" </h1>
 <br><br>
 
-Hi I am Adarsh Saurabh very happy to see you here 😄. Currently I am a first year computer science Btech student. I am really into learning and growing. 
- <img width="100%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /><br>
+<p>Hi I am Adarsh Saurabh very happy to see you here 😄. Currently I am a first year computer science Btech student. I am really into learning and growing. </p>
+ 
 
 
 
+<!-- </b><br><br> -->
 
-
-  <b> Contact me here:- </b><br><br>
+  <b> Contact me here:- 
    [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/adarsh-saurabh-b27492145/) 
    [<img alt="Discord" src="https://img.shields.io/badge/Server-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>](https://discord.gg/TUaCh8JeHt) 
    [<img alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23833AB4.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://instagram.com/adarsh.saurabh/)
     [<img alt="Gmail" src="https://img.shields.io/badge/-Gmail-yellow.svg?&style=for-the-badge&logo=gmail&logoColor=red"/>](https://adarshsaurabh1396@gmail.com/)
    
-
+<img width="100%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /><br>
   
 
 ## About me:
