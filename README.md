@@ -30,7 +30,7 @@
   
 - **Pronouns** - **He**, **They**.
 
-- Currently I'm working on a **Covid Predictor** model <a herf="https://covid-predictor-webapp.herokuapp.com/">Click Here!</a>
+- Currently I'm working on a **Covid Predictor** model <a href="https://covid-predictor-webapp.herokuapp.com/">Click Here!</a>
 
 
 
