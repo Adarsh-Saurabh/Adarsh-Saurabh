@@ -37,10 +37,10 @@
 
 ## Some stats  <img src = "https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width = 32px> </h2>
 
-<p>&nbsp;<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Adarsh-Saurabh&show_icons=true&theme=tokyonight&locale=en" alt="Adarsh-Saurabh" /></p>
+<p>&nbsp;<img width="45%" align="right" src="https://github-readme-stats.vercel.app/api?username=Adarsh-Saurabh&show_icons=true&theme=tokyonight&locale=en" alt="Adarsh-Saurabh" /></p>
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Adarsh-Saurabh&&theme=tokyonight&currStreakLabel=DDA523)](https://git.io/streak-stats) -->
-<p><img align="left" width="50%"
+<p><img align="left" width="45%"
                 src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh-Saurabh&&theme=tokyonight"
                 alt="Adarsh-Saurabh" /></p>
 
