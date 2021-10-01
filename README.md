@@ -44,7 +44,7 @@
 
 
 
-  <a href="https://github.com/Adarsh-Saurabh/github-readme-activity-graph"><img width="100%" alt="Adarsh Saurabh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Adarsh-Saurabh&bg_color=0D1117&theme=tokyonight&line=5BCDEC&point=FFFFFF" /></a>  <!-- &color=5BCDEC&hide_border=true-->  <!-- align="right" -->
+  <a href="https://github.com/Adarsh-Saurabh/github-readme-activity-graph"><img width="100%" alt="Adarsh Saurabh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Adarsh-Saurabh&theme=tokyonight" /></a>  <!-- &color=5BCDEC&hide_border=true-->  <!-- align="right" &line=5BCDEC&point=FFFFFF &bg_color=0D1117 -->
   
 <!--   <a href="https://github.com/Adarsh-Saurabh/github-readme-stats"><img width="100%" alt="Adarsh Saurabh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-Saurabh&langs_count=8&count_private=true&layout=compact&theme=tokyonight" /></a>  <!-- &hide_border=true&bg_color=0D1117 --> -->
 
