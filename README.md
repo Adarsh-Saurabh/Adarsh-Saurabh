@@ -39,7 +39,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Adarsh-Saurabh&show_icons=true&theme=tokyonight&locale=en" alt="Adarsh-Saurabh" /></p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Adarsh-Saurabh&theme=nightowl&currStreakLabel=DDA523)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Adarsh-Saurabh&&theme=tokyonight&currStreakLabel=DDA523)](https://git.io/streak-stats)
 
 
 
