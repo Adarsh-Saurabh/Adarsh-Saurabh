@@ -37,7 +37,7 @@
 
 ## Some stats  <img src = "https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width = 32px> </h2>
 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Adarsh-Saurabh&show_icons=true&locale=en" alt="Adarsh-Saurabh" /></p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Adarsh-Saurabh&theme=nightowl&currStreakLabel=DDA523)](https://git.io/streak-stats)
 
