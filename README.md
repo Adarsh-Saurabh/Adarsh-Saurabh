@@ -37,13 +37,13 @@
 
 ## Some stats  <img src = "https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width = 32px> </h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Adarsh-Saurabh&show_icons=true&theme=tokyonight&locale=en" alt="Adarsh-Saurabh" /></p>
+<p>&nbsp;<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Adarsh-Saurabh&show_icons=true&theme=tokyonight&locale=en" alt="Adarsh-Saurabh" /></p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Adarsh-Saurabh&&theme=tokyonight&currStreakLabel=DDA523)](https://git.io/streak-stats)
 
 
 
-  <a href="https://github.com/Adarsh-Saurabh/github-readme-activity-graph"><img width="53%" align="right" alt="Adarsh Saurabh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Adarsh-Saurabh&bg_color=0D1117&theme=tokyonight" /></a>  <!-- &color=5BCDEC&hide_border=true-->  <!-- &line=5BCDEC&point=FFFFFF -->
+  <a href="https://github.com/Adarsh-Saurabh/github-readme-activity-graph"><img width="100%" alt="Adarsh Saurabh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Adarsh-Saurabh&bg_color=0D1117&theme=tokyonight&line=5BCDEC&point=FFFFFF" /></a>  <!-- &color=5BCDEC&hide_border=true-->  <!-- align="right" -->
   
   <a href="https://github.com/Adarsh-Saurabh/github-readme-stats"><img width="35%" alt="Adarsh Saurabh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-Saurabh&langs_count=8&count_private=true&layout=compact&theme=tokyonight" /></a>  <!-- &hide_border=true&bg_color=0D1117 -->
 
