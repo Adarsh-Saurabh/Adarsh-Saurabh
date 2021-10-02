@@ -42,14 +42,15 @@
 
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh-Saurabh&&theme=tokyonight" alt="Adarsh-Saurabh" /></p>
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-Saurabh&theme=tokyonight&langs_count=7"><img  alt="Adarsh Saurabh's Activity Graph" src="https://github.com/Adarsh-Saurabh/github-readme-stats"/></a>
+<!--  Most used language  -->
+
+  <a align="Right" width="50%" href="https://github.com/Adarsh-Saurabh/github-readme-activity-graph"><img  alt="Adarsh Saurabh's Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-Saurabh&theme=tokyonight&langs_count=7"/></a>
 
 
 
-  <a href="https://github.com/Adarsh-Saurabh/github-readme-stats"><img  alt="Adarsh Saurabh's Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-Saurabh&theme=tokyonight&langs_count=7"/></a>  <!-- &color=5BCDEC&hide_border=true-->  <!-- align="right" &line=5BCDEC&point=FFFFFF &bg_color=0D1117 -->
+  <a href="https://github.com/Adarsh-Saurabh/github-readme-activity-graph"><img  alt="Adarsh Saurabh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Adarsh-Saurabh&&theme=tokyonight"/></a> 
   
-<!--   <a href="https://github.com/Adarsh-Saurabh/github-readme-stats"><img width="100%" alt="Adarsh Saurabh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-Saurabh&langs_count=8&count_private=true&layout=compact&theme=tokyonight"/></a>   &hide_border=true&bg_color=0D1117 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-Saurabh&theme=tokyonight&langs_count=7)](https://github.com/Adarsh-Saurabh/github-readme-stats)
+
 
 
 ## Skills <img src = "https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width = 64px></h2>
