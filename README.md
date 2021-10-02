@@ -42,6 +42,8 @@
 
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh-Saurabh&&theme=tokyonight" alt="Adarsh-Saurabh" /></p>
 
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-Saurabh&theme=tokyonight&langs_count=7"><img  alt="Adarsh Saurabh's Activity Graph" src="https://github.com/Adarsh-Saurabh/github-readme-stats"/></a>
+
 
 
   <a href="https://github.com/Adarsh-Saurabh/github-readme-activity-graph"><img  alt="Adarsh Saurabh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Adarsh-Saurabh&&theme=tokyonight"/></a>  <!-- &color=5BCDEC&hide_border=true-->  <!-- align="right" &line=5BCDEC&point=FFFFFF &bg_color=0D1117 -->
