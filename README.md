@@ -20,7 +20,7 @@
 
 ## About me:
 
-- 💻 I am learning **DSA, Flask** and **ML**.
+- 💻 I am learning **DSA, Django, Computer Vision** and **ML**.
 
 - 😄 Looking for open source opportunities.
 
@@ -30,7 +30,8 @@
   
 - **Pronouns** - **He**, **They**.
 
-- Currently I'm working on a **Covid Predictor** model <a href="https://covid-predictor-webapp.herokuapp.com/">Click Here!</a>
+- A project from my club **Covid Predictor** model <a href="https://covid-predictor-webapp.herokuapp.com/">Click Here!</a>
+
 
 
 
@@ -59,11 +60,13 @@
  <img align="left" width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> 
  <img  align="left" width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> 
  <img  align="left" width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> 
- <img align="left"  width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flask.svg'> 
+ <img align="left"  width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flask.svg'>
+ <img align="left"  width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/django.svg'>
+ <img align="left"  width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/opencv.svg'>
  <img  align="left" width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/heroku.svg'> 
  <img  align="left" width ='32px' src="https://img.icons8.com/color/48/000000/git.png"/>
  <img  align="left" width ='32px' src="https://img.icons8.com/color/48/000000/firebase.png"/>
- <img  align="left" width ='32px' src="https://img.icons8.com/color/48/000000/django.png"/>
+<!--  <img  align="left" width ='32px' src="https://img.icons8.com/color/48/000000/django.png"/> -->
 <br><br>
 
 ## My Trophies <img src = "https://media.giphy.com/media/JzqRWjBTKZXSE/giphy.gif" width = 64px> </h2>
