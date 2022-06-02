@@ -36,7 +36,8 @@
 
 
 
-## Some stats  <img src = "https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width = 32px> </h2>
+## Some stats 
+ <!-- <img src = "https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width = 32px> </h2> -->
 
 <p>&nbsp;<img   src="https://github-readme-stats.vercel.app/api?username=Adarsh-Saurabh&show_icons=true&theme=tokyonight&locale=en" alt="Adarsh-Saurabh" /></p>
 
@@ -54,7 +55,8 @@
 
 
 
-## Skills <img src = "https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width = 64px></h2>
+## Skills 
+<!-- <img src = "https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width = 64px></h2> -->
 
 
  <img align="left" width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> 
@@ -69,7 +71,8 @@
  <img  align="left" width ='32px' src="https://img.icons8.com/color/48/000000/django.png"/>
 <br><br>
 
-## My Trophies <img src = "https://media.giphy.com/media/JzqRWjBTKZXSE/giphy.gif" width = 64px> </h2>
+## My Trophies
+ <!-- <img src = "https://media.giphy.com/media/JzqRWjBTKZXSE/giphy.gif" width = 64px> </h2> -->
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=Adarsh-Saurabh&column=7&theme=tokyonight&no-frame=true"/>
   <img width="120%" alt="Github" src="https://media.giphy.com/media/l7fdqmHQ1jCg2HzQlx/giphy.gif" />
 
