@@ -2,78 +2,65 @@
 <img alt = "Visitors"  src = "https://komarev.com/ghpvc/?username=Adarsh-Saurabh"/>
 <h1>Hello! <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="40"/> </h1>
 
-<h4>Hi I am Adarsh Saurabh very happy to see you here 😄. Currently I am a first year computer science Btech student. I am really into learning and growing.</h4>
- 
+## About Me:
+
+I'm Adarsh Saurabh, a passionate Python developer with a focus on computer vision and machine learning. I bring a wealth of experience in these fields, coupled with a knack for collaboration and staying at the forefront of emerging technologies. My commitment to continuous learning has led me to delve into data structures, expanding my skill set for a well-rounded development journey.
+
+### Let's Connect:
+
+- [LinkedIn](https://www.linkedin.com/in/adarsh-saurabh-b27492145/)
+- [Discord](https://discord.gg/TUaCh8JeHt)
+- [Instagram](https://instagram.com/adarsh.saurabh/)
+- [Gmail](mailto:adarshsaurabh1396@gmail.com)
+
+## Key Highlights:
+
+- 💻 Proficient in Machine Learning, Deep Learning, Computer Vision, NLP, and Large Language Models. Passionate about Generative AI.
+- 🌐 Familiar with Django.
+- 😄 Actively seeking open-source opportunities.
+- 🎶 A music enthusiast.
+- 😋 Loves Anime.
+- **Pronouns**: He/They.
+
+## GitHub Stats:
+
+<!-- Create a table to contain the images and set their dimensions -->
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Adarsh-Saurabh&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" width="400" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh-Saurabh&&theme=tokyonight" alt="GitHub Streak" width="400" />
+    </td>
+  </tr>
+</table>
+
+
+## Skills:
+
+I'm proficient in several technologies, including:
+
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg" alt="Python">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg" alt="C++">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg" alt="C">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flask.svg" alt="Flask">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/opencv.svg" alt="OpenCV">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/heroku.svg" alt="Heroku">
+  <img width="32px" src="https://img.icons8.com/color/48/000000/git.png" alt="Git">
+  <img width="32px" src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase">
+  <img width="32px" src="https://img.icons8.com/color/48/000000/django.png" alt="Django">
+  <img width="32px" src="https://img.icons8.com/color/48/000000/cnn.png" alt="CNN">
+  <img width="32px" src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="Tensorflow">
+</div>
+
+
+## My Trophies:
+
+<img src="https://github-profile-trophy.vercel.app/?username=Adarsh-Saurabh&column=7&theme=tokyonight&no-frame=true" style="display: block; margin: 0 auto;">
 
 
 
-<!-- </b><br><br> -->
 
-<!--   <b> Contact me here:-  -->
-   [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/adarsh-saurabh-b27492145/) 
-   [<img alt="Discord" src="https://img.shields.io/badge/Server-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>](https://discord.gg/TUaCh8JeHt) 
-   [<img alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23833AB4.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://instagram.com/adarsh.saurabh/)
-   [<img alt="Gmail" src="https://img.shields.io/badge/-Gmail-yellow.svg?&style=for-the-badge&logo=gmail&logoColor=red"/>](https://adarshsaurabh1396@gmail.com/)
-   
-   <img width="100%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /><br>
-  
-
-## About me:
-
-- 💻 I am learning **DSA, Django, Computer Vision** and **ML**.
-
-- 😄 Looking for open source opportunities.
-
-- 🎶 I'm really into **Music**.
-
-- 😋 Loves **Anime**.
-  
-- **Pronouns** - **He**, **They**.
-
-- **Covid Predictor** model <a href="https://covid-predictor-webapp.herokuapp.com/">Click Here!</a>
-
-
-
-
-
-## Some stats 
- <!-- <img src = "https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width = 32px> </h2> -->
-
-<p>&nbsp;<img   src="https://github-readme-stats.vercel.app/api?username=Adarsh-Saurabh&show_icons=true&theme=tokyonight&locale=en" alt="Adarsh-Saurabh" /></p>
-
-
-<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh-Saurabh&&theme=tokyonight" alt="Adarsh-Saurabh" /></p>
-
-<!--  Most used language  -->
-
-  <a align="Right" width="50%" href="https://github.com/Adarsh-Saurabh/github-readme-activity-graph"><img  alt="Adarsh Saurabh's Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-Saurabh&theme=tokyonight&langs_count=7"/></a>
-
-
-
-  <a href="https://github.com/Adarsh-Saurabh/github-readme-activity-graph"><img  alt="Adarsh Saurabh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Adarsh-Saurabh&&theme=tokyonight"/></a> 
-  
-
-
-
-## Skills 
-<!-- <img src = "https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width = 64px></h2> -->
-
-
- <img align="left" width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> 
- <img  align="left" width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> 
- <img  align="left" width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> 
- <img align="left"  width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flask.svg'>
-<!--  <img align="left"  width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/django.svg'> -->
- <img align="left"  width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/opencv.svg'>
- <img  align="left" width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/heroku.svg'> 
- <img  align="left" width ='32px' src="https://img.icons8.com/color/48/000000/git.png"/>
- <img  align="left" width ='32px' src="https://img.icons8.com/color/48/000000/firebase.png"/>
- <img  align="left" width ='32px' src="https://img.icons8.com/color/48/000000/django.png"/>
-<br><br>
-
-## My Trophies
- <!-- <img src = "https://media.giphy.com/media/JzqRWjBTKZXSE/giphy.gif" width = 64px> </h2> -->
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Adarsh-Saurabh&column=7&theme=tokyonight&no-frame=true"/>
-  <img width="120%" alt="Github" src="https://media.giphy.com/media/l7fdqmHQ1jCg2HzQlx/giphy.gif" />
-
-<!-- End -->
+</details>
