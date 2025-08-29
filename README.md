@@ -170,13 +170,13 @@ class AdarshSaurabh:
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
-## 🐍 Contribution Graph
+<!-- ## 🐍 Contribution Graph
 
 <p align="center">
   <img src="https://github.com/Adarsh-Saurabh/Adarsh-Saurabh/blob/output/github-contribution-grid-snake-dark.svg" />
-</p>
+</p> -->
 
----
+<!-- --- -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=fadeIn" width="100%"/>
