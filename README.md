@@ -13,9 +13,6 @@
 <!-- Profile views and social badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Adarsh-Saurabh&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
-  <a href="./225EC6021_Adarsh%20Saurabh.pdf">
-    <img src="https://img.shields.io/badge/Download-Master_Resume_PDF-6C63FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
-  </a>
   <a href="https://www.linkedin.com/in/adarsh-saurabh/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -80,10 +77,10 @@ class AdarshSaurabh:
 
 ---
 
-## 📄 Master Resume Overview
+## 📄 Resume
 
 <details open>
-<summary><b>Click to expand / collapse full Master Resume credentials</b></summary>
+<summary><b>Click to expand / collapse resume details</b></summary>
 
 ### 🎓 Education
 * **National Institute of Technology, Rourkela** (2025 -- 2027)  
@@ -98,13 +95,13 @@ class AdarshSaurabh:
 * **Team Leader (Academic Alliance Program)** --- *Ziroh Labs* (Jan 2022 -- Feb 2022)  
   * Led a 5-engineer team to deliver core image processing pipelines ahead of schedule.
 
-### 🛠️ Comprehensive Technology Matrix
+### 🛠️ Technical Skills & Tools
 * **Languages**: `Python`, `C`, `C++`, `SQL`, `TypeScript`, `HTML/CSS`
 * **ML & Systems**: `Polars`, `CatBoost (GPU)`, `LightGBM`, `RapidFuzz`, `PyTorch`, `Scikit-learn`, `OpenCV`, `CUDA`
 * **LLMs & GenAI**: `LangGraph`, `Gemini 2.5 Pro / Flash`, `LiteLLM`, `llama.cpp`, `FastAPI`, `Streamlit`, `Supabase`
 * **Web & Data Platforms**: `Django REST API`, `Next.js`, `React Vite`, `JWT`, `PostgreSQL`, `Docker`
 
-### 🚀 All Projects & System Architectures Included
+### 🚀 Projects
 1. **Amazon ML Challenge 2026 --- Entity Resolution Engine** (2026) --- *CatBoost GPU, LightGBM, Polars, RapidFuzz* --- [Code](https://github.com/Adarsh-Saurabh/AmazonMl2026) • `Macro F0.5 = 0.9719`
 2. **Uplan --- Adversarial Document Intelligence Pipeline** (2025) --- *LangGraph, Gemini 2.5 Pro, Streamlit* --- [Hugging Face Space](https://huggingface.co/spaces/ksk76/AMDDeveloperHackathon) • 85% manual audit reduction
 3. **Alternative Data Radar** (2026) --- *Next.js, TypeScript, Supabase, Bright Data* --- [Code](https://github.com/Adarsh-Saurabh/Alt-Data-Radar-Hackathon) • Corporate health index
@@ -117,7 +114,7 @@ class AdarshSaurabh:
 
 <p align="center">
   <a href="./225EC6021_Adarsh%20Saurabh.pdf">
-    <img src="https://img.shields.io/badge/📥_Download_Master_Resume-NIT_Rourkela_Format_(PDF)-6C63FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume" />
+    <img src="https://img.shields.io/badge/Download_Resume_(PDF)-6C63FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume" />
   </a>
 </p>
 
