@@ -1,31 +1,14 @@
-<!-- Dynamic typing SVG -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Adarsh+Saurabh;M.Tech+in+Signal+%26+Image+Processing;ML+Systems+%7C+LLMOps+%7C+Large-Scale+Tabular" alt="Typing SVG" />
-  </a>
-</p>
-
-<!-- Animated wave banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=90&section=header&animation=fadeIn" width="100%"/>
-</p>
-
-<!-- Profile views and social badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Adarsh-Saurabh&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
-  <a href="https://www.linkedin.com/in/adarsh-saurabh/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:adarshsaurabh1396@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://devpost.com/Adarsh-Saurabh">
-    <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white" alt="Devpost" />
-  </a>
-  <a href="https://leetcode.com/adarshsaurabh">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-</p>
+<div align="center">
+  <h1>Hi 👋, I'm Adarsh Saurabh</h1>
+  <p><b>M.Tech in Signal &amp; Image Processing @ NIT Rourkela</b><br/>
+  ML Systems • LLMOps • Large-Scale Entity Resolution • Edge Vision</p>
+  <p>
+    <a href="https://www.linkedin.com/in/adarsh-saurabh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:adarshsaurabh1396@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+    <a href="https://devpost.com/Adarsh-Saurabh"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white" alt="Devpost" /></a>
+    <a href="https://leetcode.com/adarshsaurabh"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  </p>
+</div>
 
 ## 🎯 About Me
 
@@ -129,6 +112,3 @@ class AdarshSaurabh:
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-Saurabh&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=70&section=footer&animation=fadeIn" width="100%"/>
-</p>
