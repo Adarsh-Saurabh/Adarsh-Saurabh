@@ -12,7 +12,7 @@
 
 <!-- Profile views and social badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Adarsh-Saurabh&label=Profile%20Views&color=6C63FF&style=for-the-badge&v=1" alt="Profile Views" />
+  <img src="https://hits.sh/github.com/Adarsh-Saurabh.svg?extraCount=6160&style=for-the-badge&label=Profile%20Views&color=6C63FF&labelColor=24292e" alt="Profile Views" />
   <a href="https://www.linkedin.com/in/adarsh-saurabh/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
