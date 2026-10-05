@@ -1,14 +1,31 @@
-<div align="center">
-  <h1>Hi 👋, I'm Adarsh Saurabh</h1>
-  <p><b>M.Tech in Signal &amp; Image Processing @ NIT Rourkela</b><br/>
-  ML Systems • LLMOps • Large-Scale Entity Resolution • Edge Vision</p>
-  <p>
-    <a href="https://www.linkedin.com/in/adarsh-saurabh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:adarshsaurabh1396@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-    <a href="https://devpost.com/Adarsh-Saurabh"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white" alt="Devpost" /></a>
-    <a href="https://leetcode.com/adarshsaurabh"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-  </p>
-</div>
+<!-- Dynamic typing SVG -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="./assets/typing.svg" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- Animated wave banner -->
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="Header Wave"/>
+</p>
+
+<!-- Profile views and social badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Adarsh-Saurabh&label=Profile%20Views&color=6C63FF&style=for-the-badge&v=1" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/adarsh-saurabh/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:adarshsaurabh1396@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://devpost.com/Adarsh-Saurabh">
+    <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white" alt="Devpost" />
+  </a>
+  <a href="https://leetcode.com/adarshsaurabh">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+</p>
 
 ## 🎯 About Me
 
@@ -112,3 +129,6 @@ class AdarshSaurabh:
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-Saurabh&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
+<p align="center">
+  <img src="./assets/footer.svg" width="100%" alt="Footer Wave"/>
+</p>
