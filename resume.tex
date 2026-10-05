@@ -1,0 +1,197 @@
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{fontawesome5}
+\usepackage{multicol}
+\setlength{\multicolsep}{-3.0pt}
+\setlength{\columnsep}{-1pt}
+\input{glyphtounicode}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.6in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1.19in}
+\addtolength{\topmargin}{-.7in}
+\addtolength{\textheight}{1.4in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+	\vspace{-4pt}\scshape\raggedright\large\bfseries
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+\pdfgentounicode=1
+
+% Custom commands
+\newcommand{\resumeItem}[1]{
+	\item\small{
+		{#1 \vspace{-2pt}}
+	}
+}
+
+\newcommand{\resumeSubheading}[4]{
+	\vspace{-2pt}\item
+	\begin{tabular*}{1.0\textwidth}[t]{l@{\extracolsep{\fill}}r}
+		\textbf{#1} & \textbf{\small #2} \\
+		\textit{\small#3} & \textit{\small #4} \\
+	\end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+	\item
+	\begin{tabular*}{1.001\textwidth}{l@{\extracolsep{\fill}}r}
+		\small#1 & \textbf{\small #2}\\
+	\end{tabular*}\vspace{-7pt}
+}
+
+\renewcommand\labelitemi{$\vcenter{\hbox{\tiny$\bullet$}}$}
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.0in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+\begin{document}
+	
+	%----------HEADING----------
+	\begin{center}
+		{\Huge \scshape Adarsh Saurabh} \\ \vspace{1pt}
+		\small \raisebox{-0.1\height}\faPhone\ +91 7004428313 ~ \href{mailto:adarshsaurabh1396@gmail.com}{\raisebox{-0.2\height}\faEnvelope\  \underline{adarshsaurabh1396@gmail.com}} ~ 
+		\href{https://linkedin.com/in/adarsh-saurabh}{\raisebox{-0.2\height}\faLinkedin\ \underline{LinkedIn}}  ~
+		\href{https://github.com/Adarsh-Saurabh}{\raisebox{-0.2\height}\faGithub\ \underline{GitHub}} ~
+		\href{https://devpost.com/Adarsh-Saurabh}{\raisebox{-0.2\height}\faCode\ \underline{Devpost}} ~
+		\href{https://leetcode.com/adarshsaurabh}{\raisebox{-0.2\height}\faLaptopCode\ \underline{LeetCode}}
+		\vspace{-8pt}
+	\end{center}
+	
+	%-----------EDUCATION-----------
+	\section{Education}
+	\resumeSubHeadingListStart
+	\resumeSubheading
+	{National Institute Of Technology, Rourkela}{2025 -- 2027}
+	{Master of Technology in Signal and Image Processing, CGPA: 8.28}{Rourkela, India}
+	
+	\resumeSubheading
+	{Guru Ghasidas University, Bilaspur}{2020 -- 2024}
+	{Bachelor of Technology in Computer Science and Engineering, CGPA: 8.5}{Bilaspur, India}
+	
+	\resumeSubheading
+	{Jawahar Navodaya Vidyalaya, JNV Sitamarhi}{2017}
+	{Matriculation CBSE, CGPA: 8.8}{Sitamarhi, India}
+	\resumeSubHeadingListEnd
+	
+	%-----------PROGRAMMING SKILLS-----------
+	\section{Technical Skills}
+	\begin{itemize}[leftmargin=0.15in, label={}]
+		\small{\item{
+				\textbf{Languages}{: Python, C, C++, SQL, TypeScript, HTML/CSS} \\
+				\textbf{ML \& Systems}{: Polars, CatBoost (GPU), LightGBM, RapidFuzz, PyTorch, Scikit-learn, OpenCV, CUDA} \\
+				\textbf{LLMs \& Frameworks}{: LangGraph, Gemini API, LiteLLM, llama.cpp, FastAPI, Django REST, Next.js, Streamlit, Supabase} \\
+				\textbf{Specializations}{: Machine Learning, LLMOps, Multi-Agent Systems, Computer Vision, High-Scale Data Pipelines} \\
+		}}
+	\end{itemize}
+	\vspace{-15pt}
+
+	%-----------EXPERIENCE-----------
+	\section{Experience}
+	\resumeSubHeadingListStart
+	\resumeSubheading
+	{Autobot Robotics}{May 2023 -- Aug 2023}
+	{Machine Learning Intern}{Remote}
+	\resumeItemListStart
+	\resumeItem{Mentored junior interns, imparting hands-on mastery in ML algorithms, data manipulation, and exploratory data analysis.}
+	\resumeItem{Developed and deployed 4 production-grade ML/DL model services in Django for robotic system integration.}
+	\resumeItemListEnd
+	
+	\resumeSubheading
+	{Ziroh Labs}{Jan 2022 -- Feb 2022}
+	{Team Leader - Academic Alliance Program}{Remote}
+	\resumeItemListStart
+	\resumeItem{Led a cross-functional team of 5 engineers to deliver core image processing pipelines ahead of deadline schedules.}
+	\resumeItemListEnd
+	\resumeSubHeadingListEnd
+	\vspace{-16pt}
+	
+	%-----------PROJECTS-----------
+	\section{Key Projects}
+	\vspace{-5pt}
+	\resumeSubHeadingListStart
+
+	\resumeProjectHeading
+	{\textbf{Amazon ML Challenge 2026 — Entity Resolution Engine}{\href{https://github.com/Adarsh-Saurabh/AmazonMl2026}{\color{blue}\underline{GitHub}}} $|$ \emph{Python, Polars, CatBoost GPU, LightGBM, RapidFuzz}}{2026}
+	\resumeItemListStart
+	\resumeItem{Engineered end-to-end production entity resolution pipeline over 24.2M records using Polars lazy execution and multi-view blocking.}
+	\resumeItem{Built 14-dim C++ RapidFuzz feature extraction engine; trained CatBoost GPU and LightGBM with Isotonic calibration achieving Macro F0.5 = 0.9719.}
+	\resumeItemListEnd
+	\vspace{-13pt}
+
+	\resumeProjectHeading
+	{\textbf{Uplan — Adversarial Document Intelligence Pipeline}{\href{https://huggingface.co/spaces/ksk76/AMDDeveloperHackathon}{\color{blue}\underline{Space}}} $|$ \emph{Python, Gemini API, LangGraph, Streamlit}}{2025}
+	\resumeItemListStart
+	\resumeItem{Architected adversarial multi-agent workflow in LangGraph with Gemini 2.5 Pro specialists; reduced manual review load by 85\%.}
+	\resumeItem{Engineered semantic metadata graph using Gemini 2.0 Flash (98\% token compression) paired with zero-hallucination rule validation.}
+	\resumeItemListEnd
+	\vspace{-13pt}
+
+	\resumeProjectHeading
+	{\textbf{Alternative Data Radar}{\href{https://github.com/Adarsh-Saurabh/Alt-Data-Radar-Hackathon}{\color{blue}\underline{GitHub}}} $|$ \emph{TypeScript, Next.js, Supabase, Bright Data, LLM APIs}}{2026}
+	\resumeItemListStart
+	\resumeItem{Engineered automated collection pipeline gathering careers and pricing signals via Bright Data Web Unlocker infrastructure.}
+	\resumeItem{Extracted structured corporate signals using Zod validation; computed 0--100 corporate health score displayed in Recharts UI.}
+	\resumeItemListEnd
+	\vspace{-13pt}
+
+	\resumeProjectHeading
+	{\textbf{IBYD Technology — Warehouse PathMapper}{\href{https://youtu.be/nTAbJAMX3GY}{\color{blue}\underline{Video}}} $|$ \emph{Python, Heuristic Routing, Graph Algorithms}}{2023}
+	\resumeItemListStart
+	\resumeItem{Delivered dynamic warehouse mapping solution, scaling routing heuristics to 10,000$\times$10,000 grids in under 0.5s for 10,000+ locations.}
+	\resumeItemListEnd
+	\vspace{-13pt}
+
+	\resumeProjectHeading
+	{\textbf{Apna Gold Solutions — Multi-Tenant SaaS Platform}{\href{https://apnagold.in}{\color{blue}\underline{Live}}} $|$ \emph{Django REST API, React Vite, JWT}}{2025}
+	\resumeItemListStart
+	\resumeItem{Developed multi-tenant B2B2C platform with seller KYC verification, customer subscription management, and tenant isolation.}
+	\resumeItemListEnd 
+	\vspace{-13pt}
+
+	\resumeProjectHeading
+	{\textbf{K-HOG Unsupervised Keyframe Identifier (K-HUKI)}{\href{https://drive.google.com/file/d/1RlvrfvjZYSbgN1V72sEOMB9MzZYjHp1y/view?usp=sharing}{\color{blue}\underline{Report}}} $|$ \emph{Python, OpenCV, ML}}{2023}
+	\resumeItemListStart
+	\resumeItem{Engineered unsupervised keyframe extraction engine using HOG features achieving 96.45\% accuracy, 11$\times$ faster than ResNet.}
+	\resumeItemListEnd
+
+	\resumeSubHeadingListEnd
+	\vspace{-15pt}
+	
+	%-----------ACHIEVEMENTS-----------
+	\section{Achievements \& Leadership}
+	\resumeSubHeadingListStart
+	\resumeItem{Intermediate Winner — Awaiken Hacks 2023: Action comparison tool using MediaPipe for real-time posture analysis.}
+	\resumeItem{Rank 1 — Girlscript Bilaspur Hackathon "Hack4CG": Facial emotion recognition model for depression vulnerability detection.}
+	\resumeItem{Vice President — Google Developer Student Club (GDSC), GGU: Organized workshops in AI/ML and competitive coding.}
+	\resumeSubHeadingListEnd
+	
+\end{document}

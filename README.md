@@ -10,10 +10,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=90&section=header&animation=fadeIn" width="100%"/>
 </p>
 
-<!-- Social Badges & Resume CTA -->
+<!-- Profile views and social badges -->
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Adarsh-Saurabh&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
   <a href="./225EC6021_Adarsh%20Saurabh.pdf">
-    <img src="https://img.shields.io/badge/Download-Resume_PDF-6C63FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
+    <img src="https://img.shields.io/badge/Download-Master_Resume_PDF-6C63FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
   </a>
   <a href="https://www.linkedin.com/in/adarsh-saurabh/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -76,6 +77,51 @@ class AdarshSaurabh:
 | **CodeAtlas** | Zero-dependency AST architecture graph & performance bottleneck analyzer | Python `ast`, Graph Algorithms, Mermaid.js | [Code](https://github.com/Adarsh-Saurabh/CodeAtlas) • AST structural analysis |
 | **K-HUKI** | Keyframe extraction engine with HOG features & unsupervised clustering | Python, Computer Vision, OpenCV, ML | [Project Report](https://drive.google.com/file/d/1RlvrfvjZYSbgN1V72sEOMB9MzZYjHp1y/view?usp=sharing) • **96.45% acc, 11x faster ResNet** |
 | **Wildlife-Tracking** | Edge-network real-time hybrid animal tracking | PyTorch, Computer Vision, Edge AI | [Code](https://github.com/Adarsh-Saurabh/Realtime-Hybrid-Wildlife-Tracking-on-Edge-Networks) • Real-time edge inference |
+
+---
+
+## 📄 Master Resume Overview
+
+<details open>
+<summary><b>Click to expand / collapse full Master Resume credentials</b></summary>
+
+### 🎓 Education
+* **National Institute of Technology, Rourkela** (2025 -- 2027)  
+  *Master of Technology in Signal and Image Processing* --- **CGPA: 8.28**
+* **Guru Ghasidas University, Bilaspur** (2020 -- 2024)  
+  *Bachelor of Technology in Computer Science & Engineering* --- **CGPA: 8.50**
+
+### 💼 Professional Experience
+* **Machine Learning Intern** --- *Autobot Robotics* (May 2023 -- Aug 2023)  
+  * Mentored junior interns in core ML, NumPy, Pandas, and exploratory data analysis.  
+  * Built and deployed 4 production-grade ML/DL model microservices in Django for robot integration.
+* **Team Leader (Academic Alliance Program)** --- *Ziroh Labs* (Jan 2022 -- Feb 2022)  
+  * Led a 5-engineer team to deliver core image processing pipelines ahead of schedule.
+
+### 🛠️ Comprehensive Technology Matrix
+* **Languages**: `Python`, `C`, `C++`, `SQL`, `TypeScript`, `HTML/CSS`
+* **ML & Systems**: `Polars`, `CatBoost (GPU)`, `LightGBM`, `RapidFuzz`, `PyTorch`, `Scikit-learn`, `OpenCV`, `CUDA`
+* **LLMs & GenAI**: `LangGraph`, `Gemini 2.5 Pro / Flash`, `LiteLLM`, `llama.cpp`, `FastAPI`, `Streamlit`, `Supabase`
+* **Web & Data Platforms**: `Django REST API`, `Next.js`, `React Vite`, `JWT`, `PostgreSQL`, `Docker`
+
+### 🚀 All Projects & System Architectures Included
+1. **Amazon ML Challenge 2026 --- Entity Resolution Engine** (2026) --- *CatBoost GPU, LightGBM, Polars, RapidFuzz* --- [Code](https://github.com/Adarsh-Saurabh/AmazonMl2026) • `Macro F0.5 = 0.9719`
+2. **Uplan --- Adversarial Document Intelligence Pipeline** (2025) --- *LangGraph, Gemini 2.5 Pro, Streamlit* --- [Hugging Face Space](https://huggingface.co/spaces/ksk76/AMDDeveloperHackathon) • 85% manual audit reduction
+3. **Alternative Data Radar** (2026) --- *Next.js, TypeScript, Supabase, Bright Data* --- [Code](https://github.com/Adarsh-Saurabh/Alt-Data-Radar-Hackathon) • Corporate health index
+4. **IBYD Technology --- Warehouse PathMapper** (2023) --- *Python, Heuristic Routing* --- [Video Demo](https://youtu.be/nTAbJAMX3GY) • Sub-0.5s routing on 10,000×10,000 grids
+5. **Apna Gold Solutions --- Multi-Tenant SaaS Platform** (2025) --- *Django REST, React Vite, JWT* --- [Live Platform](https://apnagold.in) • Production B2B2C
+6. **K-HOG Unsupervised Keyframe Identifier (K-HUKI)** (2023) --- *Python, OpenCV, HOG* --- [Report](https://drive.google.com/file/d/1RlvrfvjZYSbgN1V72sEOMB9MzZYjHp1y/view?usp=sharing) • 96.45% accuracy, 11x faster ResNet
+7. **local-gpu-llm-hub** (2026) --- *FastAPI, llama.cpp, CUDA* --- [Code](https://github.com/Adarsh-Saurabh/local-gpu-llm-hub) • Local GPU inference server
+8. **CodeAtlas** (2026) --- *Python `ast`, Mermaid.js* --- [Code](https://github.com/Adarsh-Saurabh/CodeAtlas) • AST architecture analysis
+9. **Wildlife-Tracking** (2025) --- *PyTorch, Edge AI* --- [Code](https://github.com/Adarsh-Saurabh/Realtime-Hybrid-Wildlife-Tracking-on-Edge-Networks) • Real-time animal tracking
+
+<p align="center">
+  <a href="./225EC6021_Adarsh%20Saurabh.pdf">
+    <img src="https://img.shields.io/badge/📥_Download_Master_Resume-NIT_Rourkela_Format_(PDF)-6C63FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume" />
+  </a>
+</p>
+
+</details>
 
 ---
 
