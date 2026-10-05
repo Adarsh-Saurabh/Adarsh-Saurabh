@@ -63,16 +63,19 @@ class AdarshSaurabh:
 
 ---
 
-## 🔥 Flagship Production Repositories
+## 🔥 Flagship Projects & Repositories
 
-| Repository | Focus & Architecture | Stack | Key Metric / Result |
+| Project / Repository | Focus & Architecture | Stack | Links & Key Results |
 | :--- | :--- | :--- | :--- |
-| **[AmazonMl2026](https://github.com/Adarsh-Saurabh/AmazonMl2026)** | 24.2M-record Entity Resolution engine with multi-view blocking | CatBoost GPU, LightGBM, Polars, RapidFuzz | **Macro F0.5 = 0.9719** |
-| **[local-gpu-llm-hub](https://github.com/Adarsh-Saurabh/local-gpu-llm-hub)** | Stateless local GPU LLM inference server + LiteLLM proxy | FastAPI, llama.cpp, CUDA, Web UI | OpenAI/Claude drop-in |
-| **[CodeAtlas](https://github.com/Adarsh-Saurabh/CodeAtlas)** | Zero-dependency static code analysis & architecture graph engine | Python `ast`, Graph algorithms, Mermaid.js | AST-based bottleneck scan |
-| **[Alt-Data-Radar](https://github.com/Adarsh-Saurabh/Alt-Data-Radar-Hackathon)** | Pre-earnings corporate intelligence pipeline with web signals | Next.js, Supabase, Bright Data, Zod | Automated 0–100 health index |
-| **[Uplan AI](https://huggingface.co/spaces/ksk76/AMDDeveloperHackathon)** | Adversarial multi-agent document verification pipeline | LangGraph, Gemini 2.5 Pro, Streamlit | 85% manual audit reduction |
-| **[Wildlife-Tracking](https://github.com/Adarsh-Saurabh/Realtime-Hybrid-Wildlife-Tracking-on-Edge-Networks)** | Edge-network real-time hybrid animal tracking | PyTorch, Computer Vision, Edge AI | Real-time edge inference |
+| **Amazon ML Challenge 2026** | 24.2M-record Entity Resolution engine with multi-view blocking | CatBoost GPU, LightGBM, Polars, RapidFuzz | [Code](https://github.com/Adarsh-Saurabh/AmazonMl2026) • **Macro F0.5 = 0.9719** |
+| **IBYD Warehouse PathMapper** | Heuristic routing system for dynamic warehouse mapping (10,000×10,000 units) | Python, Graph Algorithms, Heuristics | [Video Demo](https://youtu.be/nTAbJAMX3GY) • **<0.5s for 10,000+ points** |
+| **Uplan AI** | Adversarial multi-agent document verification with Gemini 2.5 Pro | LangGraph, Gemini API, Streamlit, Python | [Hugging Face Space](https://huggingface.co/spaces/ksk76/AMDDeveloperHackathon) • **85% manual audit cut** |
+| **local-gpu-llm-hub** | Stateless local GPU LLM inference server + LiteLLM proxy | FastAPI, llama.cpp, CUDA, Web UI | [Code](https://github.com/Adarsh-Saurabh/local-gpu-llm-hub) • OpenAI/Claude API drop-in |
+| **Alternative Data Radar** | Automated pre-earnings web signals & corporate health index | TypeScript, Next.js, Supabase, Bright Data | [Code](https://github.com/Adarsh-Saurabh/Alt-Data-Radar-Hackathon) • Real-time Recharts dashboard |
+| **Apna Gold SaaS** | Multi-tenant B2B2C gold platform with KYC verification & tenant isolation | Django REST API, React Vite, JWT | [Live Platform](https://apnagold.in) • Production SaaS |
+| **CodeAtlas** | Zero-dependency AST architecture graph & performance bottleneck analyzer | Python `ast`, Graph Algorithms, Mermaid.js | [Code](https://github.com/Adarsh-Saurabh/CodeAtlas) • AST structural analysis |
+| **K-HUKI** | Keyframe extraction engine with HOG features & unsupervised clustering | Python, Computer Vision, OpenCV, ML | [Project Report](https://drive.google.com/file/d/1RlvrfvjZYSbgN1V72sEOMB9MzZYjHp1y/view?usp=sharing) • **96.45% acc, 11x faster ResNet** |
+| **Wildlife-Tracking** | Edge-network real-time hybrid animal tracking | PyTorch, Computer Vision, Edge AI | [Code](https://github.com/Adarsh-Saurabh/Realtime-Hybrid-Wildlife-Tracking-on-Edge-Networks) • Real-time edge inference |
 
 ---
 
